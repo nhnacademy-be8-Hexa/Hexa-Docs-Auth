@@ -1,7 +1,11 @@
 # Hexa-Docs-Auth
 
-https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/refreshTokenBlackList.html" target="_blank">
+  Refresh Token Black List 페이지
+</a>
+
 <br>
-https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/token.html
 
-
+<a href="https://nhnacademy-be8-hexa.github.io/Hexa-Docs-Auth/token.html" target="_blank">
+  Token 페이지
+</a>
